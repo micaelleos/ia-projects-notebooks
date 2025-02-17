@@ -12,7 +12,7 @@ Bem-vindo ao repositório **ia-projects-notebooks**! Aqui você encontrará uma 
    - **Modelo:** InceptionV3 (Transfer Learning)
    - **Dataset:** [COVID-19 Xray Dataset - Kaggle](https://www.kaggle.com/datasets/khoongweihao/covid19-xray-dataset-train-test-sets/data)
    - **Aplicação Real:** Diagnóstico rápido de pneumonia a partir de imagens de raio-X, uma ferramenta de diagnóstico assistido, útil para profissionais de saúde, especialmente em áreas com poucos recursos.
-   - **Link para o projeto:** [Classification Pneumonia - Covid_19](./Classification Pneumonia - Covid_19.ipynb)
+   - **Link para o projeto:** [Classification Pneumonia - Covid_19](https://github.com/micaelleos/ia-projects-notebooks/blob/main/Classification%20Pneumonia%20-%20Covid_19.ipynb)
 
 ---
 
