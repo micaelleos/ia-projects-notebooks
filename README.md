@@ -10,9 +10,9 @@ Bem-vindo ao repositório **ia-projects-notebooks**! Aqui você encontrará uma 
    - **Objetivo:** Construir um modelo para detectar pneumonia em imagens de raio-X utilizando o modelo pré-treinado **InceptionV3**. O modelo foi treinado e avaliado utilizando um dataset de imagens de raio-X de pulmões de pacientes.
    - **Tecnologias:** TensorFlow, Keras, Transfer Learning
    - **Modelo:** InceptionV3 (Transfer Learning)
-   - **Dataset:** [Chest X-Ray Images (Pneumonia) - Kaggle](https://www.kaggle.com/paultimothymooney/chest-xray-pneumonia)
-   - **Aplicação Real:** Diagnóstico rápido de pneumonia a partir de imagens de raio-X, uma ferramenta útil para profissionais de saúde, especialmente em áreas com poucos recursos.
-   - **Link para o projeto:** [Pneumonia-Detection](./pneumonia-detection)
+   - **Dataset:** [COVID-19 Xray Dataset - Kaggle](https://www.kaggle.com/datasets/khoongweihao/covid19-xray-dataset-train-test-sets/data)
+   - **Aplicação Real:** Diagnóstico rápido de pneumonia a partir de imagens de raio-X, uma ferramenta de diagnóstico assistido, útil para profissionais de saúde, especialmente em áreas com poucos recursos.
+   - **Link para o projeto:** [Classification Pneumonia - Covid_19](./Classification Pneumonia - Covid_19.ipynb)
 
 ---
 
