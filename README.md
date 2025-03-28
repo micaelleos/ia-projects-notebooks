@@ -1,36 +1,37 @@
-# ia-projects-notebooks
+# **ia-projects-notebooks**  
 
-Bem-vindo ao repositório **ia-projects-notebooks**! Aqui você encontrará uma coleção de projetos desenvolvidos com **TensorFlow** e **Hugging Face** para resolver problemas reais utilizando Inteligência Artificial. Cada projeto é projetado para ser simples, rápido de implementar e fácil de entender, com foco em aplicações práticas.
+Welcome to the **ia-projects-notebooks** repository! Here, you will find a collection of projects developed using **TensorFlow** and **Hugging Face** to solve real-world problems with Artificial Intelligence. Each project is designed to be simple, quick to implement, and easy to understand, focusing on practical applications.  
 
----
+---  
 
-## Projetos
+## **Projects**  
 
-### 1. **Detecção de Pneumonia em Imagens de Raio-X**
-   - **Objetivo:** Construir um modelo para detectar pneumonia em imagens de raio-X utilizando o modelo pré-treinado **InceptionV3**. O modelo foi treinado e avaliado utilizando um dataset de imagens de raio-X de pulmões de pacientes.
-   - **Tecnologias:** TensorFlow, Keras, Transfer Learning
-   - **Modelo:** InceptionV3 (Transfer Learning)
-   - **Dataset:** [COVID-19 Xray Dataset - Kaggle](https://www.kaggle.com/datasets/khoongweihao/covid19-xray-dataset-train-test-sets/data)
-   - **Aplicação Real:** Diagnóstico rápido de pneumonia a partir de imagens de raio-X, uma ferramenta de diagnóstico assistido, útil para profissionais de saúde, especialmente em áreas com poucos recursos.
-   - **Link para o projeto:** [Classification Pneumonia - Covid_19](https://github.com/micaelleos/ia-projects-notebooks/blob/main/Classification%20Pneumonia%20-%20Covid_19.ipynb)
+### 1. **Pneumonia Detection in X-Ray Images**  
+   - **Objective:** Build a model to detect pneumonia in X-ray images using the pre-trained **InceptionV3** model. The model was trained and evaluated using a dataset of lung X-ray images from patients.  
+   - **Technologies:** TensorFlow, Keras, Transfer Learning  
+   - **Model:** InceptionV3 (Transfer Learning)  
+   - **Dataset:** [COVID-19 X-ray Dataset - Kaggle](https://www.kaggle.com/datasets/khoongweihao/covid19-xray-dataset-train-test-sets/data)  
+   - **Real-World Application:** Fast pneumonia diagnosis from X-ray images—an assisted diagnostic tool useful for healthcare professionals, especially in resource-limited areas.  
+   - **Project Link:** [Classification Pneumonia - Covid_19](https://github.com/micaelleos/ia-projects-notebooks/blob/main/Classification%20Pneumonia%20-%20Covid_19.ipynb)  
 
----
+---  
 
-## Tecnologias Utilizadas
+## **Technologies Used**  
 
-- **TensorFlow** – Framework de aprendizado profundo.
-- **Hugging Face Transformers** – Modelos de NLP (Processamento de Linguagem Natural) pré-treinados.
-- **Keras** – API de alto nível para construir e treinar modelos de aprendizado profundo.
-- **FastAPI** – Framework para construção de APIs rápidas e eficientes.
-- **Streamlit** – Framework para criação de interfaces de usuário interativas.
-- **Scikit-learn** – Ferramentas e modelos para aprendizado de máquina tradicional.
+- **TensorFlow** – Deep learning framework.  
+- **Hugging Face Transformers** – Pre-trained NLP (Natural Language Processing) models.  
+- **Keras** – High-level API for building and training deep learning models.  
+- **FastAPI** – Framework for building fast and efficient APIs.  
+- **Streamlit** – Framework for creating interactive user interfaces.  
+- **Scikit-learn** – Tools and models for traditional machine learning.  
 
----
+---  
 
-## Como Rodar os Projetos
+## **How to Run the Projects**  
 
-1. **Clone o repositório:**
+1. **Clone the repository:**  
 
    ```bash
    git clone https://github.com/micaelleos/ia-projects-notebooks.git
    cd ia-projects-notebooks
+   ```  
